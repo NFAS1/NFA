@@ -10,3 +10,7 @@
 * Paste in the JWT String and Click Login
 
 # DOWNLOAD
+
+# TROUBLESHOOT
+
+If steam doesn't work, you can run this in command prompt as administrator: "C:\Program Files (x86)\Steam\bin\steamservice.exe" /repair
