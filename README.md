@@ -10,7 +10,7 @@
 * Paste in the JWT String and Click Login
 
 # DOWNLOAD
-https://github.com/NFAS1/NFA/releases/tag/nfaloader
+https://github.com/HKCSGO/SteamJWT/releases
 
 # TROUBLESHOOT
 
